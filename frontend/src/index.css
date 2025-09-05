@@ -1,0 +1,3 @@
+ @tailwind base /* Estilo básicos(normalize/reset)  */
+@tailwind componets /* Componentes utilitarios */
+@tailwind utilities /* Criar classes utilitárias */
